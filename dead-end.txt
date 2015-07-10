@@ -1,0 +1,17 @@
+cout << "After some time, you regain your strength and stand up." << endl;
+cin >> Continue;
+cout << "The spider's corpse sits in a stinking pile of ooze and web, making you feel nauseous." << endl;
+cin >> Continue;
+cout << "Continuing on, the cobwebs increase in density and the air grows heavy." << endl;
+cin >> Continue;
+cout << "After several minutes of aimlessly walking forward, you find yourself in a a small room, " << endl;
+cout << "filled with webs, spider eggs, and slime." << endl;
+cin >> Continue;
+cout << "By now the stench is forcing tears from your eyes." << endl;
+cin >> Continue;
+cout << "However, the room is empty other than remnants of a spider's den." << endl;
+cin >> Continue;
+cout << "You find yourself at a dead-end. There is no choice but to turn back and choose a different tunnel." << endl;
+cin >> Continue;
+cout << "You return to the original cave, aggravated and tired." << endl;
+cin >> Continue;
